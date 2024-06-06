@@ -3,6 +3,12 @@
 ##
 ## Get latest from https://github.com/github/gitignore/blob/master/VisualStudio.gitignore
 
+# dev containers
+.devcontainer/
+
+# vs code
+.vscode/
+
 # User-specific files
 *.suo
 *.user

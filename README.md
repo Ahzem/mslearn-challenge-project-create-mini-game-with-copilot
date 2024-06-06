@@ -18,4 +18,3 @@ This is a simple console app that allows you to play a minigame. The game is a g
 
 ## License
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details
-```
